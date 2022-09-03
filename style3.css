@@ -1,0 +1,55 @@
+/*This is the styling for web3b html */
+/*  */
+body {
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+.section1 {
+    display: flex;
+    place-content: space-between;
+    margin: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: solid 0.5mm #a29e9e;
+}
+.nav-item {
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+.home {
+    color: #000;
+    margin: 2rem;
+    }
+    .about {
+        color: #000;
+        margin: 2rem; 
+    }
+.sign {
+    border: solid 1mm #ce1c1c;
+    padding: 0.5rem 1.2rem;
+    color: #ce1c1c;
+}
+.btn {
+    background-color: #ce1c1c;
+    color: white;
+    padding: 0.8rem 1.8rem;
+    border: none;
+}
+.mini-btn {
+    margin-top: 0.3mm;
+}
+.section2 {
+    background-color: rgb(59, 55, 55);
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 8rem;
+    border-radius: 0.5rem;
+       }
+    .advice-no {
+        color: green;
+    }
+    .advice-body {
+        color: white
+    }
+    .dice {
+        color: green
+    }
